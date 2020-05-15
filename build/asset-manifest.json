@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/darvycg.github.io/static/css/main.a25bac32.chunk.css",
+    "main.js": "/darvycg.github.io/static/js/main.1dfc74d4.chunk.js",
+    "main.js.map": "/darvycg.github.io/static/js/main.1dfc74d4.chunk.js.map",
+    "runtime-main.js": "/darvycg.github.io/static/js/runtime-main.741e9120.js",
+    "runtime-main.js.map": "/darvycg.github.io/static/js/runtime-main.741e9120.js.map",
+    "static/js/2.a822b92e.chunk.js": "/darvycg.github.io/static/js/2.a822b92e.chunk.js",
+    "static/js/2.a822b92e.chunk.js.map": "/darvycg.github.io/static/js/2.a822b92e.chunk.js.map",
+    "index.html": "/darvycg.github.io/index.html",
+    "precache-manifest.d401c9b38b9bf3612fa12dd245397a26.js": "/darvycg.github.io/precache-manifest.d401c9b38b9bf3612fa12dd245397a26.js",
+    "service-worker.js": "/darvycg.github.io/service-worker.js",
+    "static/css/main.a25bac32.chunk.css.map": "/darvycg.github.io/static/css/main.a25bac32.chunk.css.map",
+    "static/js/2.a822b92e.chunk.js.LICENSE.txt": "/darvycg.github.io/static/js/2.a822b92e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.741e9120.js",
+    "static/js/2.a822b92e.chunk.js",
+    "static/css/main.a25bac32.chunk.css",
+    "static/js/main.1dfc74d4.chunk.js"
+  ]
+}
